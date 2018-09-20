@@ -2,9 +2,9 @@
 
 TRELLO: https://trello.com/teamfitapp
 
-Google Docs:
+Google Drive: https://drive.google.com/open?id=1kXDtjRNa62EFMrjhc-j2pea7v5C281Md
 
-Got rid of the excel doc and created a Trello team for us to track bugs. I added tasks that I think are the basics to complete at a minimum. Feel free to add more! I'm also going to add a google docs folder for us to share files.
+Got rid of the excel doc and created a Trello team for us to track bugs. I added tasks that I think are the basics to complete at a minimum. Feel free to add more! I'm also going to add a google drive folder for us to share files.
 
 I'm going to put a list of features we need at a minimum. We should add whatever feature we think would be cool to have there as well.
 
