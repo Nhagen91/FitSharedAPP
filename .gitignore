@@ -4,4 +4,4 @@
 
 # Ignore all non-source files
 bin/
-*/FitWebApp/obj/*
+VisualStudioFiles/FitWebApp/obj/*
