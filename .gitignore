@@ -3,8 +3,8 @@
 */.vs/*
 
 # Ignore all non-source files
-bin/
-obj/
+[Bb]in
+[Oo]bj
 */obj/Debug/*
 
 # Try ignoring all generated files..
