@@ -6,3 +6,17 @@
 [Bb]in
 [Oo]bj
 [Dd]ebug
+*.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.dll
+
+
+# Ignore specific files because Git doesn't understand simple commands...
+FitWebApp.assets.cache
+FitWebApp/obj/project.assets.json
+FitWebApp/obj/project.assets.json
+FitWebApp/obj/FitWebApp.csproj.nuget.g.props
+FitWebApp/obj/*
