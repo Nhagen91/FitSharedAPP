@@ -1,7 +1,7 @@
 # Ignore all but the website solution folder
 !/FitWebApp/*
-/.vs/
+*/.vs/*
 
 # Ignore all non-source files
 bin/
-FitWebApp/obj/*
+obj/
