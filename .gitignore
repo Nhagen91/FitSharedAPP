@@ -4,4 +4,4 @@
 
 # Ignore all non-source files
 bin/
-obj/
+*/FitWebApp/obj/*
