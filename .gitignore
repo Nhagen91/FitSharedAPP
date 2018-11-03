@@ -2,5 +2,5 @@
 !*/FitWebApp/*
 
 # Ignore all non-source files
-*/FitWebApp/bin/*
-*/FitWebApp/obj/*
+bin/
+obj/
