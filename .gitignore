@@ -1,5 +1,6 @@
 # Ignore all but the website solution folder
 !*/FitWebApp/*
+*/.vs/*
 
 # Ignore all non-source files
 bin/
