@@ -5,15 +5,4 @@
 # Ignore all non-source files
 [Bb]in
 [Oo]bj
-*/obj/Debug/*
-
-# Try ignoring all generated files..
-*.lock
-*.ide
-*.ide-shm
-*.ide-wal
-*.cache
-*.dll
-*.pdb
-*.dll
-*.cshtml.cs
+[Dd]ebug
